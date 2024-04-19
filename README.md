@@ -14,3 +14,30 @@ The KKP Blood Screening Project is a web application designed for blood analysis
 - Monocytes: 1 instance
 
 For more detailed information about these cell types, refer to the `blood_detect` folder.
+
+## Installation and Setup
+To run the project locally for development purposes, follow these steps:
+1. Create a virtual environment:
+   ```bash
+   python3 -m venv venv
+   ```
+2. Activate the virtual environment:
+   ```bash
+   source venv/bin/activate
+   ```
+3. Install the required dependencies:
+   ```bash
+   (venv) $ pip install -r requirements.txt
+   ```
+4. Run the Flask web application:
+   ```bash
+   (venv) $ python webapp.py
+   ```
+
+Additionally, an example Python script for performing inference using requests is provided in `tests/test_request.py`. Please note that the `find_model()` function within this script expects a file ending with `.pt` for inference, and the code will work only if there is one model file ending with `.pt` placed inside the folder. Adjust the script accordingly if multiple model files are present.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- This project utilizes the YOLOv5 model developed by Ultralytics.
