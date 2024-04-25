@@ -29,7 +29,8 @@ To run the project locally for development purposes, follow these steps:
    ```bash
    (venv) $ pip install -r requirements.txt
    ```
-4. Run the Flask web application:
+4. The model is too large to store on github (165 mb), download it from this gdrive [link](https://drive.google.com/file/d/1gt0WlQmDNakDTlcrvcE-3LFMi9BP1ZCE/view?usp=drive_link) and drop into the directory instead. I am working on a way to deal with the issue.
+5. Run the Flask web application:
    ```bash
    (venv) $ python webapp.py
    ```
