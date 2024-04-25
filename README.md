@@ -1,5 +1,6 @@
 
-# IMPORTANT NOTICE: The model is too large to store on github (165 mb), download it from this gdrive [link](https://drive.google.com/file/d/1gt0WlQmDNakDTlcrvcE-3LFMi9BP1ZCE/view?usp=drive_link) and move it into the base directory instead. I am working on a way to deal with the issue.
+# IMPORTANT NOTICE: 
+The model is too large to store on github (165 mb), download it from this gdrive [link](https://drive.google.com/file/d/1gt0WlQmDNakDTlcrvcE-3LFMi9BP1ZCE/view?usp=drive_link) and move it into the base directory instead. I am working on a way to deal with the issue.
 
 # KKP Blood Screening Project
 
