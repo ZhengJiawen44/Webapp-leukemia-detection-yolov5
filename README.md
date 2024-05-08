@@ -1,3 +1,7 @@
+# Video Showcase
+## A longer video with audio can be accessed [here](https://youtu.be/f5Gqn_xpqrw?si=AmdydtLuWuDTVfvh).
+
+![short-gif-demo](shortDemo.gif)
 
 # IMPORTANT NOTICE: 
 The model is too large to store on github (165 mb), download it from this gdrive [link](https://drive.google.com/file/d/1gt0WlQmDNakDTlcrvcE-3LFMi9BP1ZCE/view?usp=drive_link) and move it into the base directory instead. I am working on a way to deal with the issue.
